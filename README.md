@@ -1,12 +1,12 @@
-# _Proyecto_Estadisticas_de_Futbol_ :chart: 
-
-
-
-## Estadística del Fútbol  
+# " _Proyecto_Estadisticas_de_Futbol_" :chart: 
+![logotipo](/images/Logo5.jpg)
+## Función del programa
 ### El programa consiste en realizar cálculos y estadística del fútbol internacional utilizando registros desde 1874. El programa consultará al usuario qué tipo de información desea obtener de un determinado equipo (ver detalle en salida del sistema).
+
 
 ## Entrada del sistema :paperclip:
 ### El programa contiene un archivo “csv” con todos los resultados históricos de los partidos internacionales jugados desde 1874. 
+
 
 ## Salida del sistema
 ### El programa consultará al usuario de que país desea obtener información y analizará el archivo. Cálculos que podría realizar el sistema:
