@@ -16,6 +16,6 @@
 - 3- Determinar cómo le fue al país en los últimos 10 partidos jugados.
 - 4- Contra quien jugó el último partido de local o de visitante.
 - 5- Como le fue al país históricamente jugando contra otro país indicado.
-
+- 6- Historial completo de un equipo
 
 
